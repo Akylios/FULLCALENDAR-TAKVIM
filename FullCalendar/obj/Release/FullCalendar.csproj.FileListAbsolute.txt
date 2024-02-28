@@ -1,0 +1,60 @@
+C:\Users\nihat.ozkurt\Desktop\FullCalendarVeritabaniIslemleri\FullCalendar\FullCalendar\bin\FullCalendar.dll.config
+C:\Users\nihat.ozkurt\Desktop\FullCalendarVeritabaniIslemleri\FullCalendar\FullCalendar\bin\FullCalendar.dll
+C:\Users\nihat.ozkurt\Desktop\FullCalendarVeritabaniIslemleri\FullCalendar\FullCalendar\bin\FullCalendar.pdb
+C:\Users\nihat.ozkurt\Desktop\FullCalendarVeritabaniIslemleri\FullCalendar\FullCalendar\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\nihat.ozkurt\Desktop\FullCalendarVeritabaniIslemleri\FullCalendar\FullCalendar\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\nihat.ozkurt\Desktop\FullCalendarVeritabaniIslemleri\FullCalendar\FullCalendar\bin\Newtonsoft.Json.dll
+C:\Users\nihat.ozkurt\Desktop\FullCalendarVeritabaniIslemleri\FullCalendar\FullCalendar\bin\System.Net.Http.Formatting.dll
+C:\Users\nihat.ozkurt\Desktop\FullCalendarVeritabaniIslemleri\FullCalendar\FullCalendar\bin\System.Web.Helpers.dll
+C:\Users\nihat.ozkurt\Desktop\FullCalendarVeritabaniIslemleri\FullCalendar\FullCalendar\bin\System.Web.Http.dll
+C:\Users\nihat.ozkurt\Desktop\FullCalendarVeritabaniIslemleri\FullCalendar\FullCalendar\bin\System.Web.Http.WebHost.dll
+C:\Users\nihat.ozkurt\Desktop\FullCalendarVeritabaniIslemleri\FullCalendar\FullCalendar\bin\System.Web.Mvc.dll
+C:\Users\nihat.ozkurt\Desktop\FullCalendarVeritabaniIslemleri\FullCalendar\FullCalendar\bin\System.Web.Razor.dll
+C:\Users\nihat.ozkurt\Desktop\FullCalendarVeritabaniIslemleri\FullCalendar\FullCalendar\bin\System.Web.WebPages.Deployment.dll
+C:\Users\nihat.ozkurt\Desktop\FullCalendarVeritabaniIslemleri\FullCalendar\FullCalendar\bin\System.Web.WebPages.dll
+C:\Users\nihat.ozkurt\Desktop\FullCalendarVeritabaniIslemleri\FullCalendar\FullCalendar\bin\System.Web.WebPages.Razor.dll
+C:\Users\nihat.ozkurt\Desktop\FullCalendarVeritabaniIslemleri\FullCalendar\FullCalendar\bin\Newtonsoft.Json.xml
+C:\Users\nihat.ozkurt\Desktop\FullCalendarVeritabaniIslemleri\FullCalendar\FullCalendar\bin\System.Net.Http.Formatting.xml
+C:\Users\nihat.ozkurt\Desktop\FullCalendarVeritabaniIslemleri\FullCalendar\FullCalendar\bin\System.Web.Helpers.xml
+C:\Users\nihat.ozkurt\Desktop\FullCalendarVeritabaniIslemleri\FullCalendar\FullCalendar\bin\System.Web.Http.xml
+C:\Users\nihat.ozkurt\Desktop\FullCalendarVeritabaniIslemleri\FullCalendar\FullCalendar\bin\System.Web.Http.WebHost.xml
+C:\Users\nihat.ozkurt\Desktop\FullCalendarVeritabaniIslemleri\FullCalendar\FullCalendar\bin\System.Web.Mvc.xml
+C:\Users\nihat.ozkurt\Desktop\FullCalendarVeritabaniIslemleri\FullCalendar\FullCalendar\bin\System.Web.Razor.xml
+C:\Users\nihat.ozkurt\Desktop\FullCalendarVeritabaniIslemleri\FullCalendar\FullCalendar\bin\System.Web.WebPages.xml
+C:\Users\nihat.ozkurt\Desktop\FullCalendarVeritabaniIslemleri\FullCalendar\FullCalendar\bin\System.Web.WebPages.Deployment.xml
+C:\Users\nihat.ozkurt\Desktop\FullCalendarVeritabaniIslemleri\FullCalendar\FullCalendar\bin\System.Web.WebPages.Razor.xml
+C:\Users\nihat.ozkurt\Desktop\FullCalendarVeritabaniIslemleri\FullCalendar\FullCalendar\obj\Release\FullCalendar.csproj.AssemblyReference.cache
+C:\Users\nihat.ozkurt\Desktop\FullCalendarVeritabaniIslemleri\FullCalendar\FullCalendar\obj\Release\FullCalendar.csproj.CoreCompileInputs.cache
+C:\Users\nihat.ozkurt\Desktop\FullCalendarVeritabaniIslemleri\FullCalendar\FullCalendar\obj\Release\FullCalendar.csproj.CopyComplete
+C:\Users\nihat.ozkurt\Desktop\FullCalendarVeritabaniIslemleri\FullCalendar\FullCalendar\obj\Release\FullCalendar.dll
+C:\Users\nihat.ozkurt\Desktop\FullCalendarVeritabaniIslemleri\FullCalendar\FullCalendar\obj\Release\FullCalendar.pdb
+C:\Users\nihat.ozkurt\Desktop\SAĞLIK KURULU TAKVİM UYGULAMALARI\YAZILIM DOSYALARI\FullCalendarVeritabaniIslemleri\FullCalendar\FullCalendar\bin\FullCalendar.dll.config
+C:\Users\nihat.ozkurt\Desktop\SAĞLIK KURULU TAKVİM UYGULAMALARI\YAZILIM DOSYALARI\FullCalendarVeritabaniIslemleri\FullCalendar\FullCalendar\bin\FullCalendar.dll
+C:\Users\nihat.ozkurt\Desktop\SAĞLIK KURULU TAKVİM UYGULAMALARI\YAZILIM DOSYALARI\FullCalendarVeritabaniIslemleri\FullCalendar\FullCalendar\bin\FullCalendar.pdb
+C:\Users\nihat.ozkurt\Desktop\SAĞLIK KURULU TAKVİM UYGULAMALARI\YAZILIM DOSYALARI\FullCalendarVeritabaniIslemleri\FullCalendar\FullCalendar\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\nihat.ozkurt\Desktop\SAĞLIK KURULU TAKVİM UYGULAMALARI\YAZILIM DOSYALARI\FullCalendarVeritabaniIslemleri\FullCalendar\FullCalendar\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\nihat.ozkurt\Desktop\SAĞLIK KURULU TAKVİM UYGULAMALARI\YAZILIM DOSYALARI\FullCalendarVeritabaniIslemleri\FullCalendar\FullCalendar\bin\Newtonsoft.Json.dll
+C:\Users\nihat.ozkurt\Desktop\SAĞLIK KURULU TAKVİM UYGULAMALARI\YAZILIM DOSYALARI\FullCalendarVeritabaniIslemleri\FullCalendar\FullCalendar\bin\System.Net.Http.Formatting.dll
+C:\Users\nihat.ozkurt\Desktop\SAĞLIK KURULU TAKVİM UYGULAMALARI\YAZILIM DOSYALARI\FullCalendarVeritabaniIslemleri\FullCalendar\FullCalendar\bin\System.Web.Helpers.dll
+C:\Users\nihat.ozkurt\Desktop\SAĞLIK KURULU TAKVİM UYGULAMALARI\YAZILIM DOSYALARI\FullCalendarVeritabaniIslemleri\FullCalendar\FullCalendar\bin\System.Web.Http.dll
+C:\Users\nihat.ozkurt\Desktop\SAĞLIK KURULU TAKVİM UYGULAMALARI\YAZILIM DOSYALARI\FullCalendarVeritabaniIslemleri\FullCalendar\FullCalendar\bin\System.Web.Http.WebHost.dll
+C:\Users\nihat.ozkurt\Desktop\SAĞLIK KURULU TAKVİM UYGULAMALARI\YAZILIM DOSYALARI\FullCalendarVeritabaniIslemleri\FullCalendar\FullCalendar\bin\System.Web.Mvc.dll
+C:\Users\nihat.ozkurt\Desktop\SAĞLIK KURULU TAKVİM UYGULAMALARI\YAZILIM DOSYALARI\FullCalendarVeritabaniIslemleri\FullCalendar\FullCalendar\bin\System.Web.Razor.dll
+C:\Users\nihat.ozkurt\Desktop\SAĞLIK KURULU TAKVİM UYGULAMALARI\YAZILIM DOSYALARI\FullCalendarVeritabaniIslemleri\FullCalendar\FullCalendar\bin\System.Web.WebPages.Deployment.dll
+C:\Users\nihat.ozkurt\Desktop\SAĞLIK KURULU TAKVİM UYGULAMALARI\YAZILIM DOSYALARI\FullCalendarVeritabaniIslemleri\FullCalendar\FullCalendar\bin\System.Web.WebPages.dll
+C:\Users\nihat.ozkurt\Desktop\SAĞLIK KURULU TAKVİM UYGULAMALARI\YAZILIM DOSYALARI\FullCalendarVeritabaniIslemleri\FullCalendar\FullCalendar\bin\System.Web.WebPages.Razor.dll
+C:\Users\nihat.ozkurt\Desktop\SAĞLIK KURULU TAKVİM UYGULAMALARI\YAZILIM DOSYALARI\FullCalendarVeritabaniIslemleri\FullCalendar\FullCalendar\bin\Newtonsoft.Json.xml
+C:\Users\nihat.ozkurt\Desktop\SAĞLIK KURULU TAKVİM UYGULAMALARI\YAZILIM DOSYALARI\FullCalendarVeritabaniIslemleri\FullCalendar\FullCalendar\bin\System.Net.Http.Formatting.xml
+C:\Users\nihat.ozkurt\Desktop\SAĞLIK KURULU TAKVİM UYGULAMALARI\YAZILIM DOSYALARI\FullCalendarVeritabaniIslemleri\FullCalendar\FullCalendar\bin\System.Web.Helpers.xml
+C:\Users\nihat.ozkurt\Desktop\SAĞLIK KURULU TAKVİM UYGULAMALARI\YAZILIM DOSYALARI\FullCalendarVeritabaniIslemleri\FullCalendar\FullCalendar\bin\System.Web.Http.xml
+C:\Users\nihat.ozkurt\Desktop\SAĞLIK KURULU TAKVİM UYGULAMALARI\YAZILIM DOSYALARI\FullCalendarVeritabaniIslemleri\FullCalendar\FullCalendar\bin\System.Web.Http.WebHost.xml
+C:\Users\nihat.ozkurt\Desktop\SAĞLIK KURULU TAKVİM UYGULAMALARI\YAZILIM DOSYALARI\FullCalendarVeritabaniIslemleri\FullCalendar\FullCalendar\bin\System.Web.Mvc.xml
+C:\Users\nihat.ozkurt\Desktop\SAĞLIK KURULU TAKVİM UYGULAMALARI\YAZILIM DOSYALARI\FullCalendarVeritabaniIslemleri\FullCalendar\FullCalendar\bin\System.Web.Razor.xml
+C:\Users\nihat.ozkurt\Desktop\SAĞLIK KURULU TAKVİM UYGULAMALARI\YAZILIM DOSYALARI\FullCalendarVeritabaniIslemleri\FullCalendar\FullCalendar\bin\System.Web.WebPages.xml
+C:\Users\nihat.ozkurt\Desktop\SAĞLIK KURULU TAKVİM UYGULAMALARI\YAZILIM DOSYALARI\FullCalendarVeritabaniIslemleri\FullCalendar\FullCalendar\bin\System.Web.WebPages.Deployment.xml
+C:\Users\nihat.ozkurt\Desktop\SAĞLIK KURULU TAKVİM UYGULAMALARI\YAZILIM DOSYALARI\FullCalendarVeritabaniIslemleri\FullCalendar\FullCalendar\bin\System.Web.WebPages.Razor.xml
+C:\Users\nihat.ozkurt\Desktop\SAĞLIK KURULU TAKVİM UYGULAMALARI\YAZILIM DOSYALARI\FullCalendarVeritabaniIslemleri\FullCalendar\FullCalendar\obj\Release\FullCalendar.csproj.AssemblyReference.cache
+C:\Users\nihat.ozkurt\Desktop\SAĞLIK KURULU TAKVİM UYGULAMALARI\YAZILIM DOSYALARI\FullCalendarVeritabaniIslemleri\FullCalendar\FullCalendar\obj\Release\FullCalendar.csproj.CoreCompileInputs.cache
+C:\Users\nihat.ozkurt\Desktop\SAĞLIK KURULU TAKVİM UYGULAMALARI\YAZILIM DOSYALARI\FullCalendarVeritabaniIslemleri\FullCalendar\FullCalendar\obj\Release\FullCalendar.csproj.CopyComplete
+C:\Users\nihat.ozkurt\Desktop\SAĞLIK KURULU TAKVİM UYGULAMALARI\YAZILIM DOSYALARI\FullCalendarVeritabaniIslemleri\FullCalendar\FullCalendar\obj\Release\FullCalendar.dll
+C:\Users\nihat.ozkurt\Desktop\SAĞLIK KURULU TAKVİM UYGULAMALARI\YAZILIM DOSYALARI\FullCalendarVeritabaniIslemleri\FullCalendar\FullCalendar\obj\Release\FullCalendar.pdb

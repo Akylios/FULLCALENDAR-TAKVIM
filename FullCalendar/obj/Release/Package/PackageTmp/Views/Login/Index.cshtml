@@ -1,0 +1,57 @@
+﻿
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <title>Sağlık Kurulu Takvim Uygulması - Sirtuex</title>
+    <link rel="icon" href="@Url.Content("~/Hastane-Logo.png")" />
+    @*<link href="~/Content/all.css" rel="stylesheet" />
+        <link href="~/Content/fontawesome.css" rel="stylesheet" />*@
+    <link href="~/Content/style.css" rel="stylesheet" />
+    <link href="~/Fontawasome/css/all.min.css" rel="stylesheet" />
+    <link href="~/Fontawasome/css/fontawesome.min.css" rel="stylesheet" />
+
+</head>
+<body>
+    <!-- partial:index.partial.html -->
+    <div class="container">
+        <div class="screen">
+            <div class="screen__content">
+                <form class="login" method="post" action="/Login/Index2/">
+                    <div class="login__field">
+                        <i class="login__icon fas fa-user"></i>
+                        <input type="text" class="login__input" name="kullanici" placeholder="Kullanıcı Adı">
+
+                    </div>
+                    <div class="login__field">
+                        <i class="login__icon fas fa-lock"></i>
+                        <input type="password" name="sifre" class="login__input" placeholder="Şifre">
+                    </div>
+                    <button class="button login__submit">
+                        <span class="button__text">Giriş Yap</span>
+                        <i class="button__icon fas fa-chevron-right"></i>
+                    </button>
+                </form>
+                <div class="social-login">
+                    <h3>Sirtuex</h3>
+                     <div class="social-icons">
+                            <a href="https://www.instagram.com/sirtuexwebsiteyazilim/" class="social-login__icon fab fa-instagram"></a>
+                            <a href="#" class="social-login__icon fab fa-facebook"></a>
+                            <a href="#" class="social-login__icon fab fa-twitter"></a>
+                        </div>
+                    
+                </div>
+
+            </div>
+            <div class="screen__background">
+                <span class="screen__background__shape screen__background__shape4"></span>
+                <span class="screen__background__shape screen__background__shape3"></span>
+                <span class="screen__background__shape screen__background__shape2"></span>
+                <span class="screen__background__shape screen__background__shape1"></span>
+            </div>
+        </div>
+    </div>
+    <!-- partial -->
+
+</body>
+</html>
